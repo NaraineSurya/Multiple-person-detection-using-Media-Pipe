@@ -1,8 +1,8 @@
-# YOLOv5 and MediaPipe Pose Estimation for Staircase Fall Detection
+# YOLOv5 and MediaPipe Pose Estimation for Multi-Person Staircase Fall Detection
 
 ## About
 
-This project demonstrates a real-time system that utilizes YOLOv5 for person detection and MediaPipe Pose for pose estimation to monitor fall hazards on staircases. The system identifies people within a designated region of interest (ROI) and then estimates their poses to determine if their hands are touching the staircase rail. This information can be valuable in preventing falls, especially for those who require assistance while using stairs.
+This project demonstrates a real-time system that utilizes YOLOv5 for person detection and MediaPipe Pose for simultaneous pose estimation of multiple people to monitor fall hazards on staircases. The system identifies people within a designated region of interest (ROI) and then estimates their poses to determine if their hands are touching the staircase rail. This information can be valuable in preventing falls, especially for those who require assistance while using stairs.
 
 ## Sample Video
 
@@ -11,7 +11,7 @@ Here's a sample video demonstrating the system: [https://example.com/staircase-f
 ## Technologies
 
 - **YOLOv5:** A powerful object detection model pre-trained on the COCO dataset for various object classes, including people.
-- **MediaPipe Pose:** A machine learning framework that tracks human body keypoints in real-time, enabling pose estimation.
+- **MediaPipe Pose:** A machine learning framework that tracks human body keypoints in real-time, enabling simultaneous pose estimation for multiple people.
 - **OpenCV (cv2):** A popular library for real-time computer vision tasks and image processing.
 
 ## Setup
