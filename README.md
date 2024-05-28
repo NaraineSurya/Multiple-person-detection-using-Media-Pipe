@@ -7,10 +7,9 @@ This project demonstrates a real-time system that utilizes YOLOv5 for person det
 ## Sample Video
 
 Here's a sample video demonstrating the system: 
-<video width="640" height="480" controls>
-  <source src="vid/sample_vid.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+https://github.com/NaraineSurya/Multiple-person-detection-using-Media-Pipe/assets/118627098/22b1c888-899c-4634-b630-ede5d1a8b221
+
 
 ## Technologies
 
