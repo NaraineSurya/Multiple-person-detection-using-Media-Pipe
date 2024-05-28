@@ -6,7 +6,11 @@ This project demonstrates a real-time system that utilizes YOLOv5 for person det
 
 ## Sample Video
 
-Here's a sample video demonstrating the system: [/vid/sample_vid.mp4](/vid/sample_vid.mp4)
+Here's a sample video demonstrating the system: 
+<video width="640" height="480" controls>
+  <source src="vid/sample_vid.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Technologies
 
