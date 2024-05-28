@@ -1,4 +1,4 @@
-# YOLOv5 and MediaPipe Pose Estimation for Multi-Person Staircase Fall Detection
+# YOLOv5 and MediaPipe Pose Estimation for Multi-Person Staircase Rail Detection
 
 ## About
 
