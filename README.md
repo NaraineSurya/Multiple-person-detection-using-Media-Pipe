@@ -6,7 +6,7 @@ This project demonstrates a real-time system that utilizes YOLOv5 for person det
 
 ## Sample Video
 
-Here's a sample video demonstrating the system: [https://example.com/staircase-fall-detection.mp4](https://example.com/staircase-fall-detection.mp4)
+Here's a sample video demonstrating the system: [/vid/sample_vid.mp4](/vid/sample_vid.mp4)
 
 ## Technologies
 
